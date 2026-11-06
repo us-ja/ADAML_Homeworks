@@ -1,0 +1,1 @@
+Major parts from the code were copied, but the the visualisations have been done so to fit the task mostly manually. All code used to produce the report can be found in visualisations.mlx (and its dependencies). 
