@@ -1,0 +1,17 @@
+name: LUT_ADAML
+channels:
+  - conda-forge
+  - astra-toolbox
+dependencies:
+  - python ==3.12
+  - astra-toolbox
+  - ipykernel
+  - jupyter
+  - nbconvert
+  - numpy
+  - scikit-image
+  - scipy
+  - matplotlib
+  - pywavelets
+  - pandas
+  - torchvision
